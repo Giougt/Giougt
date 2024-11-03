@@ -20,5 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giougt&show_icons=true&locale=en" alt="giougt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giougt&" alt="giougt" /></p>
-<p> <img src="https://raw.githubusercontent.com/Giougt/github-stats-transparent/output/generated/overview.svg" align="right"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giougt&" alt="giougt" /> <img src="https://raw.githubusercontent.com/Giougt/github-stats-transparent/output/generated/overview.svg" align="center"></p>
+
